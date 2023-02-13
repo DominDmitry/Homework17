@@ -1,0 +1,10 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+td{
+    background: blue;
+    border: 2px black solid;
+    padding: 15px;
+}
