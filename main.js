@@ -11,4 +11,4 @@ function createTable(){
     }
      document.getElementById('tabNum').innerHTML = box;
 }
-document.onready = createTable();
+createTable();
